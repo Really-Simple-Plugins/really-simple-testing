@@ -6,22 +6,22 @@ Each contain a 'vulnerability', what really happens is we added the names to our
 
 1. vulnerability-test-theme (A Theme with a vulnerability)
 2. vulnerability-test-c (A Plugin with a Critical vulnerability)
-3. vulnerability-test-h (A Plugin with a Critical vulnerability)
-4. vulnerability-test-l (A Plugin with a Critical vulnerability)
-5. vulnerability-test-m (A Plugin with a Critical vulnerability)
+3. vulnerability-test-h (A Plugin with a High vulnerability)
+4. vulnerability-test-m (A Plugin with a Medium vulnerability)
+5. vulnerability-test-l (A Plugin with a Low vulnerability)
 
 ### 2. Downloading and Installing
 
 You can download .zips with te links below. These work as any other theme or plugin and can be uploaded, and installed as any other WordPress component.
 
 1. [vulnerability-test-theme](https://github.com/Really-Simple-Plugins/really-simple-testing/archive/refs/heads/vulnerability-test-theme.zip)
-2. [vulnerability-test-c](https://github.com/Really-Simple-Plugins/really-simple-testing/archive/refs/heads/vulnerability-test-h.zip
+2. [vulnerability-test-c](https://github.com/Really-Simple-Plugins/really-simple-testing/archive/refs/heads/vulnerability-test-c.zip
 )
 3. [vulnerability-test-h](https://github.com/Really-Simple-Plugins/really-simple-testing/archive/refs/heads/vulnerability-test-h.zip
 )
-4. [vulnerability-test-l](https://github.com/Really-Simple-Plugins/really-simple-testing/archive/refs/heads/vulnerability-test-h.zip
+4. [vulnerability-test-m](https://github.com/Really-Simple-Plugins/really-simple-testing/archive/refs/heads/vulnerability-test-m.zip
 )
-5. [vulnerability-test-m](https://github.com/Really-Simple-Plugins/really-simple-testing/archive/refs/heads/vulnerability-test-h.zip
+5. [vulnerability-test-l](https://github.com/Really-Simple-Plugins/really-simple-testing/archive/refs/heads/vulnerability-test-l.zip
 )
 
 ### 3. Feedback!
