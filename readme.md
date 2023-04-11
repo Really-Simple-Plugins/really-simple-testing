@@ -14,8 +14,6 @@ Each contain a 'vulnerability', what really happens is we added the names to our
 
 You can download .zips with te links below. These work as any other theme or plugin and can be uploaded, and installed as any other WordPress component.
 
-https://github.com/Really-Simple-Plugins/really-simple-testing/archive/refs/heads/vulnerability-test-h.zip
-
 1. [vulnerability-test-theme](https://github.com/Really-Simple-Plugins/really-simple-testing/archive/refs/heads/vulnerability-test-theme.zip)
 2. [vulnerability-test-c](https://github.com/Really-Simple-Plugins/really-simple-testing/archive/refs/heads/vulnerability-test-h.zip
 )
